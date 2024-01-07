@@ -110,9 +110,9 @@ const CONFIG = {
 		},
 		{
 			id: '5',
-			name: 'Hashnode',
+			name: 'Reuters/',
 			icon: 'pen-tool',
-			link: 'https://hashnode.com/',
+			link: 'https://www.reuters.com/',
 		},
 		{
 			id: '6',
